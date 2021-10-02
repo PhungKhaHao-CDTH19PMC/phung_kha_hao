@@ -1,1 +1,2 @@
 us03 add lan 1
+us03 add lan 2
